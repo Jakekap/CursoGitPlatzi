@@ -1,3 +1,17 @@
-# CursoGitPlatzi
-Este es un repositorio de prueba para el curso de Git y Github de Platzi
-Con el que estoy practicando el pull y push
+# Hola gente
+
+*JavaScript*
+
+> I love Programming <br>
+> Es mi actividad favorita del dia
+
+```javascript
+function test(){
+    console.log("This is nice!")
+}
+```
+
+### **Esta es una forma sencilla de hacer un README.md**
+<br>
+El curso de Platzi está buenisimo!<br>
+Estoy aprendiendo mucho...
